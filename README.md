@@ -2,7 +2,7 @@
 
 ### Introduction: 
 CrossJump is a two player game. It consists of 5 Levels of difficulty (which can be selected by 
-pressing any of the keys between 1 to 5 during pause screen in game), Player to cross the finishing line 'FIRST' 
+pressing any of the keys between 1 to 5 during pause screen in game), Player, crossing the finishing line 'FIRST', 
 will be declared as winner.
 
 ### How to Play: 
